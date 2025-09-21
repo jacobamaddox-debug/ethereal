@@ -27,3 +27,7 @@ pnpm run build # build new files
 
 #### on a fork
 go to your fork's page and sync it with the upstream repo
+
+#### how to use as a kid
+Click `Kid setup` and create an account, make sure to use a your real birth date because the system will age you as you use it giving
+more options *For Your Safety* it will not allow most if not all social media platform untill your *16* 
