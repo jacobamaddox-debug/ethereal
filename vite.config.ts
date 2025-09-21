@@ -31,7 +31,9 @@ export default defineConfig({
                 {
                     src: baremuxPath + "/*.*js",
                     dest: "baremux",
-                },
+                
+                    
+                
             ]
         }),
     ],
