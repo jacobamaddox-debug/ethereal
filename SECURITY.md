@@ -1,4 +1,4 @@
-# security policy
+# *Security setup and Profle instructions*
 
 ## supported versions
 the versions marked with a `yes` have the latest patches and security fixes, and are recommended for use. the versions with a `no` are okay for use, but not recommended.
