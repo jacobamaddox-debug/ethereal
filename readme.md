@@ -3,8 +3,8 @@
 </p>
 <h1 align="center" id="readme-top">Omni Browser.</h1>
 <p align="center">
-  <sup align="center"><i>/iˈTHirēəl/</i></sup><br>
-<sub align="center"><i>/uh-thee-ree-uhl/</i></sub>
+  <sup align="center"><i>/Om-ni/</i></sup><br>
+<sub align="center"><i>/Oh-mm-nii/</i></sub>
 </p>
 <p align="center">A sleek browser to protect.</p>
 
